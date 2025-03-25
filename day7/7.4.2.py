@@ -1,3 +1,5 @@
+#Write a program to dump/write data in json file.
+
 import json
 
 def write_json_file(file_path, data):

@@ -1,3 +1,4 @@
+#Create a program that takes a list of numbers and returns the sum of all prime numbers in the list.
 def is_prime(n):
 
     if n <= 1:

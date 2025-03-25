@@ -1,3 +1,5 @@
+#Write a program to read json file and show in terminal.
+
 import json
 
 def read_json_file(file_path):

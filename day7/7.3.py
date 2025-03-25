@@ -1,3 +1,4 @@
+#Write a function to replace all instances of character c1 with character c2 and vice versa
 def double_swap(s, c1, c2):
 
     translation_table = str.maketrans(f"{c1}{c2}", f"{c2}{c1}")

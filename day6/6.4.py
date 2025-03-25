@@ -1,3 +1,5 @@
+#Given a list of people objects, create a function that sorts the list by an attribute name. The attribute to sort by will be given as a string.
+
 class Person:
     def __init__(self, firstname, lastname, age):
         self.firstname = firstname

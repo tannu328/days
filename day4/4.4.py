@@ -1,3 +1,6 @@
+#Create a function/input that, given a number, returns the corresponding value of that index in the Fibonacci series.
+
+
 def fibo(n):
 
     if n == 0 or n == 1:

@@ -1,3 +1,4 @@
+#Given a function that accepts unlimited arguments, check and count how many data types are in those arguments. Finally return the total in a list.
 from collections import Counter
 
 def count_data_types(*args):

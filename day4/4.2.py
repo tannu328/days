@@ -1,3 +1,6 @@
+#Create a function/input that counts the integer's number of digits.Solve this without using strings.
+
+
 def count_digits(n):
 
     if n == 0:

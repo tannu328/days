@@ -1,3 +1,7 @@
+#i) Create a Program that takes a string (a random name). If the last character of the name is an "a", return True, otherwise return False.
+#ii) Create a Program that takes a string (a random name). If the last and first character of the name is an "d", return True, otherwise return False.
+
+
 def check_last_character(name):
 
     return name[-1].lower() == 'a'

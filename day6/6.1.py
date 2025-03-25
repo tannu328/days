@@ -1,3 +1,5 @@
+#Create methods for the Calculator class that can do the following:Add two numbers.Subtract two numbers.Multiply two numbers.Divide two numbers
+
 class Calculator:
 
     def add(self, num1, num2):

@@ -1,3 +1,4 @@
+#Given an integer, create a function that returns the next prime. If the number is prime, return the number
 def is_prime(n):
 
     if n <= 1:

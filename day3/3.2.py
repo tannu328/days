@@ -1,3 +1,4 @@
+#Create a program that takes three arguments a, b, c and returns the sum of the numbers that are evenly divided by c from the range a, b inclusive
 def sum(a,b,c):
     total=0
     for num in range(a,b+1):

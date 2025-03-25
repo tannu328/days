@@ -1,3 +1,5 @@
+#Given a list nums where each integer is between 1 and 100, return a sorted list containing only duplicate numbers from the given nums list
+
 from collections import Counter
 
 def duplicate_nums(nums):
