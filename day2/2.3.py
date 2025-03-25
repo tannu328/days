@@ -1,3 +1,4 @@
+#Convert hours and Minutes into Seconds
 def convert_to_seconds(time):
 
     hours, minutes, seconds = map(int, time.split(':'))

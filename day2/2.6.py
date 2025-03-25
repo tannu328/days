@@ -1,3 +1,5 @@
+#A fruit juice company tags their fruit juices by concatenating the first three letters of the words in a flavor's name, with its capacity.Create a Program that creates product IDs for different fruit juices.
+
 def product_id(flavor, capacity):
     words = flavor.split()
 

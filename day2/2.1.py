@@ -1,3 +1,4 @@
+#Create a function that takes a number num and returns its length.
 def get_length(num):
 
     return len(str(abs(num)))
