@@ -1,0 +1,7 @@
+{
+    "name": "tannu",
+    "age": 20,
+    "city": "rajkot",
+    "languages": ["English", "Hindi", "Gujrati"],
+    "is_active": true
+}
